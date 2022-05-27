@@ -1,0 +1,15 @@
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.csproj.AssemblyReference.cache
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.AssemblyInfoInputs.cache
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.AssemblyInfo.cs
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.csproj.CoreCompileInputs.cache
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\bin\Debug\net6.0\retosPOO.exe
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\bin\Debug\net6.0\retosPOO.deps.json
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\bin\Debug\net6.0\retosPOO.runtimeconfig.json
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\bin\Debug\net6.0\retosPOO.dll
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\bin\Debug\net6.0\retosPOO.pdb
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.dll
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\refint\retosPOO.dll
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.pdb
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\retosPOO.genruntimeconfig.cache
+C:\Users\AdminSena\Documents\GitHub\RetosPOO\retosPOO\obj\Debug\net6.0\ref\retosPOO.dll

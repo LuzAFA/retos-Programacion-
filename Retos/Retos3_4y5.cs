@@ -1,4 +1,4 @@
-namespace portafolioC_
+namespace retosPOO
 {
     internal class Retos3_4y5
     {
@@ -117,7 +117,7 @@ namespace portafolioC_
             Console.WriteLine("Digite el valor la compra");
             float totalCompra = float.Parse(Console.ReadLine());
 
-            float porcentajeDescuento = 0;
+            float porcentajeDescuento = 1;
 
             Random random = new Random();
             int bola = random.Next(1, 5);

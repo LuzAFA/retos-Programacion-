@@ -1,4 +1,4 @@
-namespace portafolioC_
+namespace retosPOO
 {
     internal class Retos6y7
     {
@@ -57,7 +57,7 @@ namespace portafolioC_
             if (totalCompra >= 50000)
             {
                 Console.WriteLine(
-                    "Felicidades usted ha sido seleccionado para participar en nuestro sorteo! \nEl total que debes pagar de tu compra, es {totalConDescuento} pesos"
+                    $"Felicidades usted ha sido seleccionado para participar en nuestro sorteo! \nEl total que debes pagar de tu compra, es {totalConDescuento} pesos"
                 );
 
                 if (bola == 1)
@@ -124,8 +124,8 @@ namespace portafolioC_
             int moneda = random.Next(0, 2); // 0 cara 1 sello
             int elecion,
                 valorGlobal,
-                valorGanado,
-                valorPerdido,
+                valorGanado=0,
+                valorPerdido=0,
                 valorApuesta;
             bool seguir;
 
@@ -159,7 +159,7 @@ namespace portafolioC_
 
                 Console.WriteLine($"La suma que tiene a dispocision es {valorGlobal} \nLa suma ha ganado hasta el momento es {valorGanado} \nLa suma ha perdido hasta el momento es {valorPerdido}");
                 
-                Console.WriteLine("Desea seguir jugando?");
+                Console.WriteLine("Desea seguir jugando? 1. Si 2. No");
                 seguir = int.Parse(Console.ReadLine()) == 1;
             } while (seguir);
         }
